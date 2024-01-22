@@ -23,7 +23,7 @@ The Data Science Discovery Program at UC Berkeley provides an exceptional platfo
 The specific code and detailed methodologies developed for this project are proprietary and are not disclosed in this repository.
 
 ## Additional Information
-For more insights into the project's scope, objectives, and key findings, please refer to the included research poster.
+For more insights into the project's scope, objectives, and key findings, please refer to the included research poster. Both files contain the same information but are committed in different formats (PDF and PNG) for ease of access.
 
 
 
